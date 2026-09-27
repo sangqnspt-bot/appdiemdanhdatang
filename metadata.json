@@ -1,0 +1,8 @@
+{
+  "name": "Smart Attendance Expert - Quản Lý Điểm Danh Đa Tầng",
+  "description": "Hệ thống quản lý đào tạo và điểm danh trực tuyến tích hợp kiểm soát đa tầng: Geofencing, Dynamic QR, cảnh báo sớm EWS 20%, chuẩn hóa dữ liệu Excel và Audit Log bất biến.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
